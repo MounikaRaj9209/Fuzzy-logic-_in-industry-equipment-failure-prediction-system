@@ -1,0 +1,1 @@
+# Fuzzy-logic-_in-industry-equipment-failure-prediction-system
